@@ -55,10 +55,6 @@ flask-react-template/
 │
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Setup & Run Locally
