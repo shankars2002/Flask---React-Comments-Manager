@@ -24,24 +24,6 @@ A full-stack application to **add, edit, delete comments** using Flask for backe
 
 ---
 
-## ⚙️ Project Structure
-
-flask-react-template/
-│
-├── backend/
-│ ├── app.py # Flask app
-│ ├── models.py # SQLAlchemy models
-│ └── routes/
-│ └── comments.py # Comments API routes
-│
-├── frontend/
-│ ├── src/
-│ │ ├── App.js # Main React app
-│ │ └── Comments.js # Comments component
-│ ├── public/
-│ └── package.json
-│
-└── README.md
 
 yaml
 Copy
