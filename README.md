@@ -1,3 +1,6 @@
+Flask + React Comments Manager
+A full-stack application to add, edit, delete comments using Flask for backend APIs and React for frontend. The project features a modern, responsive UI and demonstrates CRUD operations with RESTful APIs.
+
 <img width="1864" height="908" alt="image" src="https://github.com/user-attachments/assets/ec3ccda5-7e90-4db0-a2b0-0592fe3743bf" />
 
 <img width="1893" height="899" alt="image" src="https://github.com/user-attachments/assets/828daf9e-9ed9-4f32-a24b-dc0cbfd911d5" />
