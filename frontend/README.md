@@ -24,11 +24,6 @@ A full-stack application to **add, edit, delete comments** using Flask for backe
 
 ---
 
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Setup & Run Locally
